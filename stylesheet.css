@@ -1,0 +1,144 @@
+body {
+    background-color: rgb(104, 187, 285);
+    padding: 0 8em;
+    color: white;
+}
+
+a {
+    color: #68bbff;
+}
+
+a:hover {
+    color: #ffd368;
+}
+
+p {
+    margin-left: 2.14285714em;
+}
+
+ul {
+    line-height: 1.4em;
+}
+
+h2 {
+    font-size: 1.2em;
+}
+
+.fa-ul {
+    margin-left: 4.142857em;
+}
+
+div#header {
+    background-color: #4e6794;
+    padding: 1em 0;
+    margin-bottom: 1em;
+}
+
+#left-box {
+    background-color: rgb(9, 30, 45);
+    color: white;
+    width: 30%;
+    float: left;
+    margin-right: 4%;
+    border-radius: 1em;
+}
+
+#right-box {
+    background-color: rgb(9, 30, 45);
+    color: white;
+    width: 62%;
+    float: left;
+    padding: 2%;
+    border-radius: 1em;
+}
+
+img {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 20%;
+}
+
+#experiences-box {
+    background: white;
+    color: black;
+    padding: 2% 4%;
+    margin-bottom: 3%;
+}
+
+.experience {
+    background-color: rgb(104, 187, 285);
+    padding: 1% 2%;
+    margin-bottom: 2%;
+    box-shadow: 2px 3px 8px 1px rgb(130, 125, 125);
+}
+
+#studies-box {
+    background: white;
+    color: black;
+    padding: 2% 4%;
+}
+
+.study {
+    background-color: rgb(104, 187, 285);
+    padding: 1% 2%;
+    margin-bottom: 2%;
+    box-shadow: 2px 3px 8px 1px rgb(130, 125, 125);
+}
+
+.center {
+    text-align: center;
+}
+
+.profil {
+    margin-right: 2.14285714em;
+    text-align: left;
+    padding-top: 2em;
+    padding-bottom: 1em;
+    text-align: justify;
+}
+
+.title-left {
+    background-color: #4e6794;
+    padding: 8px;
+    text-align: center;
+    margin-right: 2.14285714em;
+}
+
+#footer {
+    background-color: #4e6794;
+    margin-top: 1em;
+    padding: 2em;
+}
+
+div#container {
+    overflow: hidden;
+}
+
+.title-right {
+    font-size: 1.8em;
+}
+
+.span-right {
+    background-color: #4e6794;
+    padding: 8px;
+    color: white;
+    border-radius: 8px;
+    box-shadow: 2px 3px 2px 0px rgb(66, 66, 66);
+}
+
+.credits {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 1.5em;
+}
+
+.cc {
+    margin-right: 0.3em;
+    font-size: 1.4em;
+}
+
+.copyright {
+    float: right;
+}
